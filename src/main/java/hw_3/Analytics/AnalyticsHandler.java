@@ -50,6 +50,6 @@ public class AnalyticsHandler {
         String initials = name.charAt(0) + "." + patronymic.charAt(0) +".";
         //Здесь должен был использоваться метод getEnd
         System.out.println(surname + " " + initials + " - " + years + " " + ScanHandler.getEnd(years));
-        System.out.println("Gender - " + getGender(patronymic));
+        System.out.println("Пол - " + getGender(patronymic));
     }
 }
