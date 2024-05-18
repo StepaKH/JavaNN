@@ -3,3 +3,5 @@
 [2. hw_2](https://github.com/StepaKH/JavaNN/tree/main/src/main/java/hw_2)
 
 [3. hw_3](https://github.com/StepaKH/JavaNN/tree/main/src/main/java/hw_3)
+
+[4. hw_4](https://github.com/StepaKH/JavaNN/tree/main/src/main/java/hw_4)
